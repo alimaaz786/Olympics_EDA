@@ -5,3 +5,5 @@ This project utilizes Python and several libraries like pandas,matplotlib,numpy 
 ## Features
 Data cleaning and preprocessing: The project includes scripts to clean and preprocess the raw Olympic data, ensuring its suitability for analysis.
 Exploratory data analysis: Python libraries such as Pandas, NumPy, and Matplotlib are utilized to perform exploratory data analysis on the Olympic dataset. Various visualizations are created to uncover trends and patterns with the help of matplotlib and seaborn.
+## Acknowledgments
+The Olympic data used in this project is sourced from Kaggle.
